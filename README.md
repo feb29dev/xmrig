@@ -2,6 +2,8 @@
 
 XMRig is a high performance Monero (XMR) CPU miner, now with official support for Windows and **Mac**.
 
+This fork will contain all changes I had to do for a Mac build, and includes also Mac binaries on the releases.
+
 
 ## XMRig Original readme
 Go there to learn how to configure your machine after install.  
