@@ -1,9 +1,11 @@
-# XMRig Original readme
-
-Go there to learn how to configure your machine after install.
-[XMRig Readme](https://github.com/xmrig/xmrig/blob/master/README.md)
+# XMRig Mac Releases
 
 XMRig is a high performance Monero (XMR) CPU miner, now with official support for Windows and **Mac**.
+
+
+## XMRig Original readme
+Go there to learn how to configure your machine after install.  
+[XMRig Readme](https://github.com/xmrig/xmrig/blob/master/README.md)
 
 
 ## Donations
